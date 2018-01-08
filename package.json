@@ -1,0 +1,13 @@
+{
+    "name": "gitbook-plugin-quote-name",
+    "version": "0.0.1",
+    "description": "This is a GitBook plugin for display quote name",
+    "engines": {
+        "gitbook": ">=3.0.0"
+    },
+    "main": "index.js",
+    "gitbook": {
+        "properties": {
+        }
+    }
+}
